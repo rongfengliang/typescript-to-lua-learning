@@ -1,5 +1,6 @@
 class MyApp {
     static BASE_URL = "https://baidu.com"
+    /** @customConstructor MyApp */
     constructor(public name:string,public age:number){
         this.age=age;
         this.name=name;
