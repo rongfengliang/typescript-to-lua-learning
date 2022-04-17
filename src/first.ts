@@ -1,0 +1,1 @@
+import {mydemojson} from "./myjson"
