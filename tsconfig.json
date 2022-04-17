@@ -15,6 +15,7 @@
     "noHeader": true,
     "noImplicitSelf":true,
     "buildMode": "library",
-    "luaTarget": "JIT"
+    "luaTarget": "JIT",
+    "noResolvePaths":["rapidjson"]
   }
 }
