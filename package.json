@@ -4,11 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@types/shortid": "^0.0.29",
     "typescript": "^4.6.3",
     "typescript-to-lua": "^1.4.3"
   },
   "scripts": {
     "build": "tstl",
     "dev": "tstl --watch"
-  }
+  },
+  "dependencies": {}
 }
